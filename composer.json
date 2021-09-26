@@ -1,0 +1,15 @@
+{
+    "name": "tekhno/mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcos Paulo",
+            "email": "marcospaulo-br1@hotmail.com"
+        }
+    ],
+    "require": {}
+}
